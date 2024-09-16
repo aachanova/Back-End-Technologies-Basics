@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KC6NDGIEP5M=",
+  "success": true,
+  "projectFilePath": "D:\\Ani\\Back-End-Technologies-Basics\\02.Data-Formats-JSON-YAML-XML-Ex\\YamlToHtml\\YamlToHtml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ani\\.nuget\\packages\\yamldotnet\\13.7.1\\yamldotnet.13.7.1.nupkg.sha512",
+    "C:\\Users\\Ani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Ani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Ani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Ani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
