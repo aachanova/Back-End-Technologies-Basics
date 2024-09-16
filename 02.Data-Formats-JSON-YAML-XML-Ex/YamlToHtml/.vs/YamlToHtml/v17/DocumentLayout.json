@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Ani\\Back-End-Technologies-Basics\\02.Data-Formats-JSON-YAML-XML-Ex\\YamlToHtml\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B3F1900-5BC4-40AE-B580-7386ED4ED8C3}|YamlToHtml.csproj|d:\\ani\\back-end-technologies-basics\\02.data-formats-json-yaml-xml-ex\\yamltohtml\\datasets\\reservations.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B3F1900-5BC4-40AE-B580-7386ED4ED8C3}|YamlToHtml.csproj|solutionrelative:datasets\\reservations.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B3F1900-5BC4-40AE-B580-7386ED4ED8C3}|YamlToHtml.csproj|d:\\ani\\back-end-technologies-basics\\02.data-formats-json-yaml-xml-ex\\yamltohtml\\datasets\\orders.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{1B3F1900-5BC4-40AE-B580-7386ED4ED8C3}|YamlToHtml.csproj|solutionrelative:datasets\\orders.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Reservations.yaml",
+              "DocumentMoniker": "D:\\Ani\\Back-End-Technologies-Basics\\02.Data-Formats-JSON-YAML-XML-Ex\\YamlToHtml\\Datasets\\Reservations.yaml",
+              "RelativeDocumentMoniker": "Datasets\\Reservations.yaml",
+              "ToolTip": "D:\\Ani\\Back-End-Technologies-Basics\\02.Data-Formats-JSON-YAML-XML-Ex\\YamlToHtml\\Datasets\\Reservations.yaml",
+              "RelativeToolTip": "Datasets\\Reservations.yaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-16T20:49:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Orders.yaml",
               "DocumentMoniker": "D:\\Ani\\Back-End-Technologies-Basics\\02.Data-Formats-JSON-YAML-XML-Ex\\YamlToHtml\\Datasets\\Orders.yaml",
               "RelativeDocumentMoniker": "Datasets\\Orders.yaml",
               "ToolTip": "D:\\Ani\\Back-End-Technologies-Basics\\02.Data-Formats-JSON-YAML-XML-Ex\\YamlToHtml\\Datasets\\Orders.yaml",
               "RelativeToolTip": "Datasets\\Orders.yaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-09-16T20:18:19.53Z",
               "EditorCaption": ""

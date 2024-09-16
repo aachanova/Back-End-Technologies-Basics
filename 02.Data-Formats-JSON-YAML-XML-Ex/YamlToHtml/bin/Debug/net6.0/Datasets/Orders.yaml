@@ -1,32 +1,45 @@
-    - order_id: 1001
-      customer: John Doe
-      item: Wireless Mouse
-      quantity: 3
-      total_amount: 29.97
-    - order_id: 1002
-      customer: Emily Clark
-      item: 16GB USB Drives 
-      quantity: 2
-      total_amount: 31.96
-    - order_id: 1003
-      customer: Alex Johnson
-      item: External Hard Drive
-      quantity: 1
-      total_amount: 89.99
-    - order_id: 1004
-      customer: Sarah Smith
-      item: Smartphone Cases
-      quantity: 4
-      total_amount: 39.96
-    - order_id: 1005
-      customer: Michael Lee
-      item: Digital Camera
-      quantity: 1
-      total_amount: 120.50
-    - order_id: 1006
-      customer: Karen Thompson
-      item: Bluetooth Speakers
-      quantity: 2
-      total_amount: 58.00
-
-
+- reservation_id: 101
+  guest_name: Emma Johnson
+  services:
+    - type: Spa
+      date: June 15th
+      time: 2 PM
+    - type: Dinner
+      date: June 16th
+      time: 8 PM 
+- reservation_id: 102
+  guest_name: John Davis
+  services:
+    - type: Golf
+      date: June 17th
+      time: 10 AM
+    - type: Wine Tasting
+      date: June 18th
+      time: 5 PM
+- reservation_id: 103
+  guest_name: Sophia Lee
+  services:
+    - type: Yoga Class
+      date: June 19th
+      time: 8 AM
+    - type: Brunch
+      date: June 20th
+      time: 11 AM
+- reservation_id: 104
+  guest_name: Michael Brown
+  services:
+    - type: Cooking Workshop
+      date: June 21st
+      time: 4 PM
+    - type: Movie Night
+      date: June 22nd
+      time: 9 PM
+- reservation_id: 105
+  guest_name: Olivia Smith
+  services:
+    - type: Deep Sea Fishing
+      date: June 23rd
+      time: 7 AM
+    - type: Evening Cruise
+      date: June 24th
+      time: 6 PM
