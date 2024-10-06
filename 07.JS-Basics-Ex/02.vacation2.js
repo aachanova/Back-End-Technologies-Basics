@@ -1,5 +1,7 @@
-function solve(people, type, day) {
-    people = Number(people);
+function solve(arr) {
+    people = parseInt(arr[0]);
+    type = arr[1];
+    day = arr[2];
     let price;
 
     switch (type) {
@@ -45,5 +47,5 @@ function solve(people, type, day) {
     console.log(`Total price: ${totalPrice.toFixed(2)} `);
 }
 
-solve(30, "Students", "Sunday");
-solve(40, "Regular", "Saturday");
+solve([30, "Students", "Sunday"]);
+solve([40, "Regular", "Saturday"]);
