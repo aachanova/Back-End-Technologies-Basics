@@ -1,5 +1,6 @@
-function solve(number, ...operations) {
-    number = Number(number);
+function solve(input) {
+    number = Number(input[0]);
+    let operations = input.slice(1);
     let operation;
 
     for (const element of operations) {
@@ -26,5 +27,5 @@ function solve(number, ...operations) {
     }
 }
 
-solve('32', 'chop', 'chop', 'chop', 'chop', 'chop');
-solve('9', 'dice', 'spice', 'chop', 'bake', 'fillet');
+solve(['32', 'chop', 'chop', 'chop', 'chop', 'chop']);
+solve(['9', 'dice', 'spice', 'chop', 'bake', 'fillet']);
