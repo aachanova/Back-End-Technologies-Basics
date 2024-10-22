@@ -31,4 +31,4 @@ describe('sum function test', function () {
         let result = sum(['a', 'b', 'c']);
         expect(result).to.be.NaN;
     });
-})
+});
