@@ -691,11 +691,6 @@
 			"value": "YOUR_API_KEY_HERE"
 		},
 		{
-			"key": "trelloToken",
-			"value": "YOUR_API_TOKEN_HERE",
-			"type": "string"
-		},
-		{
 			"key": "doneListID",
 			"value": "671d4474b0ba5cf8747753e1",
 			"type": "string"
