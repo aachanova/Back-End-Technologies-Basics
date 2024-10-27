@@ -692,7 +692,7 @@
 		},
 		{
 			"key": "trelloToken",
-			"value": "ATTA19a7c7832da3bcedd09bd08844e91fb48950306efbd19f265bcc89a6805d76d013219B28",
+			"value": "YOUR_API_TOKEN_HERE",
 			"type": "string"
 		},
 		{
