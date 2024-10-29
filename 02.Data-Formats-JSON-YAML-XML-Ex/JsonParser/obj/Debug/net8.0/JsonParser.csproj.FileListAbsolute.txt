@@ -1,0 +1,17 @@
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\bin\Debug\net8.0\JsonParser.exe
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\bin\Debug\net8.0\Datasets\Books.json
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\bin\Debug\net8.0\Datasets\Students.json
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\bin\Debug\net8.0\JsonParser.deps.json
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\bin\Debug\net8.0\JsonParser.runtimeconfig.json
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\bin\Debug\net8.0\JsonParser.dll
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\bin\Debug\net8.0\JsonParser.pdb
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\obj\Debug\net8.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfoInputs.cache
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfo.cs
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\obj\Debug\net8.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\obj\Debug\net8.0\JsonParser.sourcelink.json
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\obj\Debug\net8.0\JsonParser.dll
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\obj\Debug\net8.0\refint\JsonParser.dll
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\obj\Debug\net8.0\JsonParser.pdb
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\obj\Debug\net8.0\JsonParser.genruntimeconfig.cache
+D:\Ani\Back-End-Technologies-Basics\02.Data-Formats-JSON-YAML-XML-Ex\JsonParser\obj\Debug\net8.0\ref\JsonParser.dll
