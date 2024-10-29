@@ -17,8 +17,7 @@ function solve(word, text) {
     text = text.toLowerCase();
 
     const result = text.split(' ').includes(word);
-    console.log(result ? `${word}` : `${word} not found!`);
-    
+    console.log(result ? `${word}` : `${word} not found!`);    
 }
 
 solve('javascript', 'JJJJJJJJJavaScript is the best programming language');
